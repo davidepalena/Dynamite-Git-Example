@@ -1,3 +1,3 @@
 Dynamite-Git-Example
 ====================
-Mergiato
+Modificato da utente1	
