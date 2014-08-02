@@ -1,3 +1,4 @@
 Dynamite-Git-Example
 ====================
-Modificato da utente1	
+
+Modificato da entrambi gli utenti
